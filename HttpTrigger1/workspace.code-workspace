@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "vue-azure-static-web-app",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue-board"
+	}
+}
