@@ -1,0 +1,13 @@
+[
+    {
+        "num" : 1, "board_code": "test", "subject" : "첫 게시글", "const" : "등록화이팅", "id": "adimn", "ori_filename": null, "filesize": null, "regdate": "2021-01-14", "editdate" : null
+    },{
+        "num" : 2, "board_code": "test4", "subject" : "첫 게시글4", "const" : "등록화이팅", "id": "adimn", "ori_filename": null, "filesize": null, "regdate": "2021-01-14", "editdate" : null
+    },{
+        "num" : 3, "board_code": "test3", "subject" : "첫 게시글3", "const" : "등록화이팅", "id": "adimn", "ori_filename": null, "filesize": null, "regdate": "2021-01-14", "editdate" : null
+    },{
+        "num" : 4, "board_code": "test2", "subject" : "첫 게시글2", "const" : "등록화이팅", "id": "adimn", "ori_filename": null, "filesize": null, "regdate": "2021-01-14", "editdate" : null
+    },{
+        "num" : 5, "board_code": "test1", "subject" : "첫 게시글1", "const" : "등록화이팅", "id": "adimn", "ori_filename": null, "filesize": null, "regdate": "2021-01-14", "editdate" : null
+    }
+]
